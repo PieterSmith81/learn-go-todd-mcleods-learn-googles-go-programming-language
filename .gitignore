@@ -1,0 +1,9 @@
+.env
+node_modules
+package-lock.json
+dist
+.vscode
+.DS_Store
+.prettierrc
+Learn to Code Go - Todd McLeod - Course Outline - v3.18.0.pdf
+000. Course's GitHub Repository Download - learn-to-code-go-version-03-main - 20250625/

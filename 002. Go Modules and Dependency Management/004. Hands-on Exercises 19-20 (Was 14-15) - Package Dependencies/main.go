@@ -1,0 +1,17 @@
+package main
+
+import (
+	"fmt"
+
+	"github.com/GoesToEleven/puppy"
+)
+
+func main() {
+	fmt.Println("Hello World!")
+	fmt.Println(puppy.Bark())
+	fmt.Println(puppy.Barks())
+	fmt.Println(puppy.BigBark())
+	fmt.Println(puppy.BigBarks())
+	puppy.From12()
+	puppy.From13()
+}
